@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-06-04T23:11:48.388Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-06-04T23:14:29.773Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Transaction simulation failed: Blockhash not found or expired."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-06-04T23:16:24.304Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-06-04T23:19:05.191Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-06-04T23:21:48.165Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-06-04T23:24:29.626Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-06-04T23:27:10.604Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Transaction simulation failed: Blockhash not found or expired."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-06-04T23:29:03.535Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-06-04T23:31:43.976Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-06-04T23:34:26.200Z",
+    "tip_multiplier": 3.5,
+    "failures": [
+      {
+        "attempt": 1,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 2,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      },
+      {
+        "attempt": 3,
+        "error": "Timeout: Bundle evicted by Jito leader or dropped due to low tip."
+      }
+    ],
+    "telemetry": null
+  }
+]
